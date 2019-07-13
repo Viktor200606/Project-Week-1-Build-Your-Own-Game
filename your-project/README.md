@@ -1,11 +1,12 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+
 Batalla Naval
 
-*[Your Cohort, Campus & Date]*
 https://Batalla-Naval.victor1234567.repl.run
+
+
 ## Content
 - [Project Description](#project-description)
 - [Workflow](#workflow)
